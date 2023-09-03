@@ -1,0 +1,10 @@
+com\example\Msapoderado\web\ApoderadoController.class
+com\example\Msapoderado\exception\ResourceNotFoundException.class
+com\example\Msapoderado\domain\mapper\ApoderadoMapper.class
+com\example\Msapoderado\repository\ApoderadoRepository.class
+com\example\Msapoderado\domain\dto\ApoderadoResponseDto.class
+com\example\Msapoderado\MsApoderadoApplication.class
+com\example\Msapoderado\service\impl\ApoderadoServiceImpl.class
+com\example\Msapoderado\domain\model\Apoderado.class
+com\example\Msapoderado\domain\dto\ApoderadoRequestDto.class
+com\example\Msapoderado\service\ApoderadoService.class
